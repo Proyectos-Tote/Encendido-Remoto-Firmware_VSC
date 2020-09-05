@@ -1,0 +1,13 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\Antonio\\.platformio\\penv\\Scripts;C:\\Users\\Antonio\\.platformio\\penv;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Skype\\Phone\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Program Files\\Microsoft\\Web Platform Installer\\;C:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Users\\Antonio\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Antonio\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\Antonio\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Intel\\iCLS Client\\;C:\\Program Files\\Intel\\iCLS Client\\;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C:\\Program Files (x86)\\Skype\\Phone\\;C:\\Program Files (x86)\\QuickTime\\QTSystem\\;C:\\Program Files\\Microsoft\\Web Platform Installer\\;C:\\Program Files\\Microsoft SQL Server\\110\\Tools\\Binn\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\dotnet\\;C:\\Users\\Antonio\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\Antonio\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\Antonio\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "array": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp"
+    }
+}
